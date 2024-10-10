@@ -3,3 +3,5 @@ ini merupakan commit pertama
 commit kedua di branch-1
 
 apa ya isi file nya???
+
+isinya coretan committtzzzz

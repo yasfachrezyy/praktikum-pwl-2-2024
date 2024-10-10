@@ -1,3 +1,5 @@
 ini merupakan file3.txt di branch-3 commit ke delapan
 
 Hobby : Futsal, Mini Soccer, Main game
+
+ada tambahan hooby mencintai dia
